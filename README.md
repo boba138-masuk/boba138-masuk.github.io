@@ -2,7 +2,7 @@
   <head
     prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
     <meta charset="utf-8" />
-    <meta name="google-site-verification" content="EV8gi0Nr2Tl0merShFvXMXCxV7A82Qbk-Gd9KC0mcEQ" />
+    <meta name="google-site-verification" content="DHwSbNQdZ1RinonsPZhVH6ckVz6WDkdngXuFD_t8ATA" />
 <meta name="title" content="BOBA138 - Membangun Generasi Unggul melalui Pendidikan Berkualitas."/>
 <meta name="description" content="BOBA138 adalah web terpercaya di Indonesia untuk game mantab dengan sistem permainan terbaru. Nikmati pengalaman bermain yang aman dan peluang menang tinggi"/>
 <meta name="robots" content="INDEX,FOLLOW"/>
